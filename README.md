@@ -1,7 +1,112 @@
 # Hi, I'm Dimas Wisnu Wirawan 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com## 🚧 Featured Projects
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;Laravel+%26+React+Enthusiast;Network+Engineer" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300"/>
+</div>
+
+---
+
+<div align="center">
+  <h2>🚀 Welcome to my Digital Universe! 🌟</h2>
+  <p><em>Passionate software developer building impactful solutions and exploring new technologies</em></p>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+
+```typescript
+const dimas = {
+    code: ["PHP", "JavaScript", "TypeScript", "Go", "Java", "Dart"],
+    technologies: {
+        backend: ["Laravel", "Node.js"],
+        frontend: ["React", "Inertia.js", "HTML", "CSS"],
+        mobile: ["Flutter"],
+        database: ["PostgreSQL", "MySQL"],
+        devOps: ["Docker", "Git"],
+        network: ["MikroTik", "RouterOS"]
+    },
+    currentFocus: "Building scalable web applications",
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
+
+- 💻 **Full Stack Developer** | Laravel & React Enthusiast
+- 🎯 **Specialized in** Laravel + Inertia.js + React/TypeScript stack
+- 🗄️ **Database expertise** with PostgreSQL & MySQL
+- 🌐 **Network Engineering** skills with MikroTik configuration
+- 🚀 **Exploring** Go, Java, and Dart for diverse project needs
+- 🛠️ **Proficient with** Git version control and Docker containerization
+- 🎓 **Lifelong learner**, always exploring new frameworks and tools
+- 🌍 **Based in** Indonesia 🇮🇩
+- 🔥 **Passionate about** clean code and innovative solutions
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 💻 Primary Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=php,js,ts&theme=dark" />
+</p>
+
+### 🔧 Also Familiar With
+<p>
+  <img src="https://skillicons.dev/icons?i=go,java,dart&theme=dark" />
+</p>
+
+### 🚀 Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,react,flutter&theme=dark" />
+  <img src="https://img.shields.io/badge/-Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" />
+</p>
+
+### 🗄️ Databases & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,docker,vscode&theme=dark" />
+  <img src="https://img.shields.io/badge/-Composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
+</p>
+
+### 🌐 Network & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/-MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" />
+  <img src="https://img.shields.io/badge/-RouterOS-EE3124?style=for-the-badge&logo=mikrotik&logoColor=white" />
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dimaswi&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dimaswi&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimaswi&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimaswi&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dimaswi&theme=redical&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🚧 Featured Projects
 
 <div align="center">
   <h3>🌟 Showcasing Real-World Solutions 🌟</h3>
@@ -64,112 +169,7 @@
   </a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%")t=Fira+Code&weight=500&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;Laravel+%26+React+Enthusiast;Network+Engineer" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300"/>
-</div>
-
----
-
-<div align="center">
-  <h2>🚀 Welcome to my Digital Universe! 🌟</h2>
-  <p><em>Passionate software developer building impactful solutions and exploring new technologies</em></p>
-</div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-
-```typescript
-const dimas = {
-    code: ["PHP", "JavaScript", "TypeScript", "Go", "Java", "Dart"],
-    technologies: {
-        backend: ["Laravel", "Node.js"],
-        frontend: ["React", "Inertia.js", "HTML", "CSS"],
-        mobile: ["Flutter"],
-        database: ["PostgreSQL", "MySQL"],
-        devOps: ["Docker", "Git"],
-        network: ["MikroTik", "RouterOS"]
-    },
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
-
-- 💻 **Full Stack Developer** | Laravel & React Enthusiast
-- 🎯 **Specialized in** Laravel + Inertia.js + React/TypeScript stack
-- 🗄️ **Database expertise** with PostgreSQL & MySQL
-- 🌐 **Network Engineering** skills with MikroTik configuration
-- 🚀 **Exploring** Go, Java, and Dart for diverse project needs
-- 🛠️ **Proficient with** Git version control and Docker containerization
-- 🎓 **Lifelong learner**, always exploring new frameworks and tools
-- 🌍 **Based in** Indonesia 🇮🇩
-- 🔥 **Passionate about** clean code and innovative solutions
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### 💻 Primary Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=php,js,ts&theme=dark" />
-</p>
-
-### 🔧 Also Familiar With
-<p>
-  <img src="https://skillicons.dev/icons?i=go,java,dart&theme=dark" />
-</p>
-
-### 🚀 Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,react,flutter&theme=dark" />
-  <img src="https://img.shields.io/badge/-Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" />
-</p>
-
-### 🗄️ Databases & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,docker,vscode&theme=dark" />
-  <img src="https://img.shields.io/badge/-Composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
-</p>
-
-### 🌐 Network & Infrastructure
-<p>
-  <img src="https://img.shields.io/badge/-MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" />
-  <img src="https://img.shields.io/badge/-RouterOS-EE3124?style=for-the-badge&logo=mikrotik&logoColor=white" />
-</p>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dimaswi&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dimaswi&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimaswi&layout=compact&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimaswi&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dimaswi&theme=redical&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 
 ## 🤝 Let's Connect & Collaborate!
 
@@ -217,5 +217,3 @@ const dimas = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=65" />
 </div>
-<!--
-**dimaswi/dimaswi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
