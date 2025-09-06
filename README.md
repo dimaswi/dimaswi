@@ -1,6 +1,12 @@
 # Hi, I'm Dimas Wicaksono 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a strong interest in building impactful solutions and learning new technologies.
+Welcome to my GitHub p## 🚧 Featured Projects
+- 🔥 **[E-Klaim Bridging](https://github.com/dimaswi/eklaim-new)** - Sistem Klaim BPJS untuk Rumah Sakit yang sudah terintegrasi dengan Rekam Medis dan Inacbg
+- 🌟 **[Point Of Sales](https://github.com/dimaswi/pos)** - Sistem Point Of Sales dengan fitur lengkap (Manajemen Toko, Manajemen User, Manajemen Inventaris, Manajemen Keuangan)
+- 💡 **[Akuntansi - Specific to Keuangan](https://github.com/dimaswi/akuntansi)** - Sistem Akuntansi (Penjurnalan, dsb) dan onProgress (Manajemen Inventaris dan Aset)
+- 📱 **[Stater-Kit React.ts Laravel Inertia](https://github.com/dimaswi/laravel-12-react-starter-kits)** - Starter Kit untuk anda jika ingin mengembangkan Web lebih cepat
+
+📂 **[View All Repositories →](https://github.com/dimaswi?tab=repositories)**le! I'm a passionate software developer with a strong interest in building impactful solutions and learning new technologies.
 
 ## 🚀 About Me
 - 💻 Full Stack Developer | Laravel & React Enthusiast
